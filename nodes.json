@@ -287,4 +287,14 @@
         "restVersion": "v4",
         "authorId": "338502866148917249"
     }
-]
+   {
+        "identifier": "USA",
+        "host": "104.167.222.158",
+        "port": 8170,
+        "password": "youshallnotpass",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "1186375223583440967"
+    }
+   ]
+
